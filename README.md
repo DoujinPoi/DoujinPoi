@@ -1,4 +1,4 @@
-<img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/1ea1524e-3e00-401c-b693-62f4bc38f623" /># Ghatra Vaganzha Rihi Pake
+# Ghatra Vaganzha Rihi Pake
 
 Human Resource & Data Analyst Intern  
 Computer Science Graduate (2024)
